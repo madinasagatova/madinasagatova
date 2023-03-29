@@ -1,4 +1,7 @@
-### Hi there 👋
+### <div id="header" align="center">
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif"/>
+</div> 
+Hi there 👋
 
 <!--
 **madinasagatova/madinasagatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
