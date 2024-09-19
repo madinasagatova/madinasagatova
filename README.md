@@ -1,12 +1,12 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="150"/>
 
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
 <div>
 
-<h1 align="center">Hi, I'm Madina .... Welcome to my GitHub page 🤗 </h1>
+<h1 align="center">Hi, My name is Madina .... Welcome to my GitHub page 🤗 </h1>
 <h3 align="center">About me 👩‍💻</h3>
-<p>A creative Frontend Developer based in Ireland ☘. I am currently working on my 3D portfolio website https://github.com/madinasagatova/3D-Web-Portfolio. My goal is to become a professional. I love to take on challenges to expand my knowledge and reach my goal! </p>
+<p>I'm a Masters Student "Msc in Data Analytics" in CCT College in Dublin.  </p>
   <p>"My mama always said, life is like a box of chocolates. You never know what you're gonna get." — Forrest Gump (Forrest Gump Quotes 💬 )</p>
 <p>If you like what I do, take a look at my **_<a href="https://drive.google.com/file/d/1wGFW7t125ahJJ5eNTKPOYLSJyzSUj4J7/view?usp=sharing" target="_blank">RESUME</a>_**  </p>
 
