@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="346" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMxMGo1dzQ4dHZycWJpaG80M3c5MG43Z3B0NXd4amZjNW4xazRxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="150"/>
 <div>
 
 <h1 align="center">Hi, My name is Madina .... Welcome to my GitHub page 🤗 </h1>
