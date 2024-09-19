@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
-
-<img <iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>></img>
+<img src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="150"/>
 <div>
 
 <h1 align="center">Hi, My name is Madina .... Welcome to my GitHub page 🤗 </h1>
