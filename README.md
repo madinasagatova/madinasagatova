@@ -4,7 +4,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMxMGo1dzQ4dHZycWJpaG80M3c5MG43Z3B0NXd4amZjNW4xazRxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="150"/>
 <div>
 
-<h1 align="center">Hi, My name is Madina .... Welcome to my GitHub page 🤗 </h1>
+<h1 align="center">Hi, My name is Madina ... Welcome to my GitHub page 🤗 </h1>
 <h3 align="center">About me 👩‍💻</h3>
 <p>I'm a Masters Student "Msc in Data Analytics" in CCT College in Dublin.  </p>
   <p>"My mama always said, life is like a box of chocolates. You never know what you're gonna get." — Forrest Gump (Forrest Gump Quotes 💬 )</p>
@@ -34,11 +34,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="php" alt="php" width="40" height="40"/>&nbsp;</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;</p>
+
 </br>
 <h3 align="center">💻 BLOGS ⇘</h3>
 <a href="https://www.orcawise.com/blogs/vscode-gitlab-personal-access-token" target="_blank">VS Code GitLab Personal Access Token</a>
