@@ -39,11 +39,5 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="php" alt="php" width="40" height="40"/>&nbsp;</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;</p>
 
-</br>
-<h3 align="center">💻 BLOGS ⇘</h3>
-<a href="https://www.orcawise.com/blogs/vscode-gitlab-personal-access-token" target="_blank">VS Code GitLab Personal Access Token</a>
-<h3 align="center">:fire: My Stats</h3>
-
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madinasagatova&theme=vision-friendly-dark)](https://git.io/streak-stats) </br>
 
 </div>
